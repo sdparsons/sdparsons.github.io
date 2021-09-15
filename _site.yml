@@ -3,6 +3,7 @@ title: "Sam Parsons"
 description: |
   My Blog
 output_dir: "docs"
+base_url: "https://sdparsons.github.io/"
 theme: theme.css
 navbar:
   search: false
