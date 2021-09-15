@@ -1,0 +1,58 @@
+---
+title: "Sam Parsons"
+image: "SamProfile.jpg"
+preview: "SamProfile.jpg"
+twitter:
+  site: "@sam_d_parsons"
+links:
+  - label: '<i class="fab fa-twitter"></i> Twitter'
+    url: "https://twitter.com/sam_d_parsons"
+  - label: '<i class="fab fa-github"></i> GitHub'
+    url: "https://github.com/sdparsons"
+  - label: '<i class="fas fa-envelope"></i> Email'
+    url: "mailto:sam.parsons@psy.ox.ac.uk"
+  - label: '<i class="ai ai-orcid"></i> ORCID'
+    url: "https://orcid.org/0000-0002-7048-4093"
+  - label: '<i class="ai ai-publons"></i> Publons'
+    url: "https://publons.com/researcher/1351322/sam-parsons/"
+  - label: '<i class="fab fa-youtube"></i> YouTube'
+    url: "https://www.youtube.com/channel/UC3C_BRgKQNqZH2P2R5U2cfw"
+  - label: '<i class="ai ai-osf"></i> OSF'
+    url: "https://osf.io/k7akr/"
+  - label: '<i class="ai ai-cv"></i> CV'
+    url: "Sam_Parsons_cv.pdf"
+output: 
+  postcards::jolla
+site: distill::distill_website
+---
+
+
+
+
+# [<i class="fab fa-twitter"></i>](https://twitter.com/sam_d_parsons) [<i class="ai ai-google-scholar"></i>](https://scholar.google.co.uk/citations?user=kE37Xy4AAAAJ&hl=en) [<i class="ai ai-orcid"></i>](https://orcid.org/0000-0002-7048-4093) [<i class="ai ai-osf"></i>](https://osf.io/k7akr/) [<i class="ai ai-researchgate"></i>](https://www.researchgate.net/profile/Sam_Parsons4) [<i class="fab fa-github"></i>](https://github.com/sdparsons) [<i class="ai ai-publons"></i>](https://publons.com/researcher/1351322/sam-parsons/) [<i class="fab fa-youtube"></i>](https://www.youtube.com/channel/UC3C_BRgKQNqZH2P2R5U2cfw) [<i class="fas fa-envelope-square"></i>](mailto:sam.parsons@psy.ox.ac.uk) [<i class="ai ai-cv"></i>](Sam_Parsons_cv.pdf)
+
+
+# THIS IS A TEST SITE
+
+## Researcher, Open Science Enthusiast, Lovable Bawbag
+
+My name is Sam Parsons. I’m a Postdoctoral Research Associate in the Department of in Experimental Psychology at Oxford University. I work in the Oxford Centre for Emotion and Affective Neuroscience, aka OCEAN. Just in case you’re here for the cat, this ginger monster is called Beau.
+
+As well as investigating cognitive-affective processes implicated in adolescent worry, I try to do my own small bit for the improvement of psychological science. Sometimes this is promoting open and reproducible research practices; others it is frustrating others by highlighting the importance of routinely estimating and reporting the reliability of our measurements. Mostly, I’d just like us all to get along and do good research.
+
+I am happy to be contacted to discuss reliability of cognitive measures - particularly if you have questions about my splithalf package and need assistance with it.
+
+(I try to keep this website up to date, however it may fall slightly behind. I do keep my CV up to date, so please do refer to that)
+
+
+## splithalf
+
+Estimate the internal consistency of your tasks with a permutation based split-half reliability approach.
+
+Latest version: 0.8.1 “Rum Ham”
+
+[<i class="fab fa-github"></i> Github documentation](https://github.com/sdparsons/splithalf)
+
+Now published in the [Journal of Open Source Software](https://joss.theoj.org/papers/10.21105/joss.03041)
+
+![splithalf package hexlogo](splithalf.png)
