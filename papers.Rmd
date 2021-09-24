@@ -25,6 +25,10 @@ Lim, M. C., **Parsons, S.**, Goglio, A., Fox, E. (2021). Anxiety, stress, and bi
 
 **Parsons, S.**, Booth, C., Songco, A., & Fox, E. (2021). Emotional information-processing correlates of mental health in adolescence: A network analysis approach. *Cognition and Emotion* \\ [doi.org/10.1080/02699931.2021.1915752](https://doi.org/10.1080/02699931.2021.1915752). Preprint: [psyarxiv.com/8ygn](https://psyarxiv.com/8ygnh), data and code: [osf.io/mn5ek/](https://osf.io/mn5ek/)
 
+<div data-badge-type="donut" data-doi="10.1080/02699931.2021.1915752" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+
 Demkowicz, O., Panayiotou, M., **Parsons, S.**, Feltham, A., Arseneault, L., Ingram, B., Patalay, P., Edge D.,, Pierce, M., Creswell, C., Victor, C., O'Connor, R., & Qualter, P. (2021). Looking back to move forward: Reflections on the strengths and challenges of the COVID-19 UK mental health research response. 
 *Frontiers Psychiatry*. [10.3389/fpsyt.2021.622562](https://doi.org/10.3389/fpsyt.2021.622562)
 
@@ -44,6 +48,10 @@ Dodd, H., Rayson, H., Ryan, Z., Bishop, C., **Parsons, S.**, Stuijfzand, B. (202
 Herbert, M., Notebaert, L., **Parsons, S.**, Fox, E., & MacLeod, C. (2019). The Effect of Varying Danger Controllability on Attention to Threat Messages. *Applied Cognitive Psychology, 34*(2). DOI: [10.1002/acp.3628](https://onlinelibrary.wiley.com/doi/abs/10.1002/acp.3628)[10.1002/acp.3628]
 
 **Parsons, S.**, Kruijt, A-W., & Fox, E. (2019). Psychological Science needs a standard practice of reporting the reliability of cognitive behavioural measurements. *Advances in Methods and Practices in Psychological Science, 2,*(4), 378-395. DOI: [doi.org/10.1177/2515245919879695](https://doi.org/10.1177/2515245919879695). Preprint: [psyarxiv.com/6ka9z](https://psyarxiv.com/6ka9z)
+
+<div data-badge-type="donut" data-doi="10.1177/2515245919879695" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
 Booth, C., Songco, A., **Parsons, S.**, Heathcote, L.C., & Fox, E. (2019). The CogBIAS longitudinal study of adolescence: Cohort profile and stability and change in measures across three waves. *BMC Psychology, 7*, 73. DOI: [10.1186/s40359-019-0342-8](https://bmcpsychology.biomedcentral.com/articles/10.1186/s40359-019-0342-8)
 
