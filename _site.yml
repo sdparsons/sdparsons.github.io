@@ -8,8 +8,9 @@ theme: theme.css
 comments: true
 collections:
   posts:
-    disquis: sdparsons
+    disquis: https-sdparsons-github-io
     share: [twitter]
+    citations: false
 navbar:
   search: false
   right:
