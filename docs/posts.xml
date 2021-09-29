@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Sam Parsons</title>
+    <link>https://sdparsons.github.io/</link>
+    <atom:link href="https://sdparsons.github.io/posts.xml" rel="self" type="application/rss+xml"/>
+    <description>My Blog
+</description>
+    <generator>Distill</generator>
+    <lastBuildDate>Wed, 29 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Bye Hugo Academic, hello Distill for Rmarkdown</title>
+      <dc:creator>Sam Parsons</dc:creator>
+      <link>https://sdparsons.github.io/posts/2021-09-29-nomorehugo</link>
+      <description>Why I gave up on Hugo Academic</description>
+      <guid>https://sdparsons.github.io/posts/2021-09-29-nomorehugo</guid>
+      <pubDate>Wed, 29 Sep 2021 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
