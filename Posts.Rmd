@@ -7,3 +7,4 @@ listing: posts
 ## On my mind
 
 Mostly short musings, some relevant to my research, some to academic life and culture. I also have a [medium blog](https://medium.com/@sam_d_parsons) that I will probably migrate posts from. 
+
