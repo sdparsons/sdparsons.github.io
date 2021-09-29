@@ -3,7 +3,7 @@
   <channel>
     <title>Sam Parsons</title>
     <link>https://sdparsons.github.io/</link>
-    <atom:link href="https://sdparsons.github.io/Posts.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://sdparsons.github.io/posts.xml" rel="self" type="application/rss+xml"/>
     <description>My Blog
 </description>
     <generator>Distill</generator>
