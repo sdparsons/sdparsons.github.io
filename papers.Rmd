@@ -7,9 +7,7 @@ site: distill::distill_article
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 
-aside_center <- function(text) {
-  return(aside(center(list(text))))
-}
+
 ```
 
 

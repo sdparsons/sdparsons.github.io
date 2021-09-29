@@ -7,15 +7,14 @@
     <description>My Blog
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Fri, 10 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Sep 2021 00:00:00 +0000</lastBuildDate>
     <item>
-      <title>Welcome to My Blog</title>
-      <dc:creator>Nora Jones</dc:creator>
-      <link>https://sdparsons.github.io/posts/welcome</link>
-      <description>Welcome to our new blog, My Blog. We hope you enjoy 
-reading what we have to say!</description>
-      <guid>https://sdparsons.github.io/posts/welcome</guid>
-      <pubDate>Fri, 10 Sep 2021 00:00:00 +0000</pubDate>
+      <title>Bye Hugo Academic, hello Distill for Rmarkdown</title>
+      <dc:creator>Sam Parsons</dc:creator>
+      <link>https://sdparsons.github.io/posts/2021-09-29-nomorehugo</link>
+      <description>Why I gave up on Hugo Academic</description>
+      <guid>https://sdparsons.github.io/posts/2021-09-29-nomorehugo</guid>
+      <pubDate>Wed, 29 Sep 2021 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

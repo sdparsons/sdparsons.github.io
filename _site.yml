@@ -5,6 +5,11 @@ description: |
 output_dir: "docs"
 base_url: "https://sdparsons.github.io/"
 theme: theme.css
+comments: true
+collections:
+  posts:
+    disquis: sdparsons
+    share: [twitter]
 navbar:
   search: false
   right:
