@@ -3,7 +3,7 @@ title: "Sam Parsons"
 description: |
   My Blog
 output_dir: "docs"
-base_url: "https://sdparsons.github.io/"
+base_url: https://sdparsons.github.io/
 theme: theme.css
 comments: true
 collections:
@@ -16,7 +16,7 @@ navbar:
   right:
     - text: "Home"
       href: index.html
-    - text: "papers"
+    - text: "publications"
       href: papers.html
     - text: "blog"
       href: posts.html

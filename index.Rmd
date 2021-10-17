@@ -31,23 +31,19 @@ site: distill::distill_website
 
 
 
-I’m a [Radboud Excellence Initiative](https://www.ru.nl/excellence/) Postdoctoral Research Fellow. I work in the [Lifespan Cognitive Dynamics Lab](https://www.rogierkievit.com/) based at the [Donders Institute](https://www.ru.nl/donders/). I did my DPhil in Experimental Psychology at the University of Oxford (a DPhil is a PhD but of course they need to call it something else)
+**About me** I’m a [Radboud Excellence Initiative](https://www.ru.nl/excellence/) Postdoctoral Research Fellow. I work in the [Lifespan Cognitive Dynamics Lab](https://www.rogierkievit.com/) based at the [Donders Institute](https://www.ru.nl/donders/). I did my DPhil in Experimental Psychology at the University of Oxford^[a DPhil is a PhD but of course they need to call it something else]
 
 Just in case you’re here for the cat, this ginger monster is called Beau.
 
-Radboud project
+**My current work** is focused on the reliability of longitudinal structural brain imaging data across brain regions, structural measures, and studies. My aim is to support developmental cognitive neuroscience study changes in brain structure and function by focusing on sources of reliability and error. My core approach will be based on intra-class effect decomposition, closely tied to generalisability theory. These models extract sources of variation in order to explore where the variation/error comes from in the model, moving beyond a single metric of reliability (e.g. ICC for test-retest). I believe it is important to support others who may want to use these approaches, so I will be dedicating time to share code and develop tutorials.
 
-Open Scholarship - ReproducibiliTea and FORRT
+I am happy to be contacted to discuss reliability of cognitive measures - particularly if you have questions about my splithalf package (see below) and need assistance with it.
 
-I try to do my own small bit for the improvement of psychological science. Sometimes this is promoting open and reproducible research practices; others it is frustrating others by highlighting the importance of routinely estimating and reporting the reliability of our measurements. Mostly, I’d just like us all to get along and do good research.
+**Open Scholarship** I try to do my own small bit for the improvement of psychological science and open scholarship. Amy Orben, Sophia Cruwell, and I co-founded the [ReproducibiliTea Journal Clubs](https://reproducibilitea.org/) - now a large international community of Journal Clubs where folks talk about openness, reproducibility, and improving research practices. Flavio Azevedo and I also co-founded a [Framework for Open and Reproducible Research Training](https://forrt.org/) (FORRT), a pedagogy-focused community working to support those seeking to incorporate open and reproducible practices into their teaching and mentoring. 
 
-Previous projects & talks
+Eventually, I will get around to loading my previous projects & talks here. In the meantime, I have most of my talk slides on the [OSF](https://osf.io/rfy2h/), and you can check out my [CV](Sam_Parsons_cv.pdf). I do try to keep this website up to date, however it may fall behind my CV.
 
-Seriousness - not a huge fan
 
-I am happy to be contacted to discuss reliability of cognitive measures - particularly if you have questions about my splithalf package and need assistance with it.
-
-(I try to keep this website up to date, however it may fall slightly behind. I do keep my [CV](Sam_Parsons_cv.pdf) up to date, so please do refer to that)
 
 ---------------------------
 
@@ -55,10 +51,10 @@ I am happy to be contacted to discuss reliability of cognitive measures - partic
 
 Estimate the internal consistency of your tasks with a permutation based split-half reliability approach.
 
-Latest version: 0.8.1 “Rum Ham”
+Latest version: 0.8.1 “Rum Ham”^[Yes, all of the version names I have given the package are references to It's Always Sunny in Philadelphia. The pointlessness amuses me, and academia is often too serious, so count this as a minor act of rebellion]
 
 [<i class="fab fa-github"></i> Github documentation](https://github.com/sdparsons/splithalf)
 
 Now published in the [Journal of Open Source Software](https://joss.theoj.org/papers/10.21105/joss.03041)
 
-![](splithalf.png)
+![](splithalf.png){ width=50% }
