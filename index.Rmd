@@ -10,7 +10,7 @@ links:
   - label: '<i class="fab fa-github"></i> GitHub'
     url: "https://github.com/sdparsons"
   - label: '<i class="fas fa-envelope"></i> Email'
-    url: "mailto:sam.parsons@psy.ox.ac.uk"
+    url: "mailto:sam.parsons@radboudumc.nl"
   - label: '<i class="ai ai-orcid"></i> ORCID'
     url: "https://orcid.org/0000-0002-7048-4093"
   - label: '<i class="ai ai-publons"></i> Publons'
@@ -27,7 +27,7 @@ site: distill::distill_website
 ---
 
 
-# [<i class="fab fa-twitter"></i>](https://twitter.com/sam_d_parsons) [<i class="ai ai-google-scholar"></i>](https://scholar.google.co.uk/citations?user=kE37Xy4AAAAJ&hl=en) [<i class="ai ai-orcid"></i>](https://orcid.org/0000-0002-7048-4093) [<i class="ai ai-osf"></i>](https://osf.io/k7akr/) [<i class="ai ai-researchgate"></i>](https://www.researchgate.net/profile/Sam_Parsons4) [<i class="fab fa-github"></i>](https://github.com/sdparsons) [<i class="ai ai-publons"></i>](https://publons.com/researcher/1351322/sam-parsons/) [<i class="fab fa-youtube"></i>](https://www.youtube.com/channel/UC3C_BRgKQNqZH2P2R5U2cfw) [<i class="fas fa-envelope-square"></i>](mailto:sam.parsons@psy.ox.ac.uk) [<i class="ai ai-cv"></i>](Sam_Parsons_cv.pdf)
+# [<i class="fab fa-twitter"></i>](https://twitter.com/sam_d_parsons) [<i class="ai ai-google-scholar"></i>](https://scholar.google.co.uk/citations?user=kE37Xy4AAAAJ&hl=en) [<i class="ai ai-orcid"></i>](https://orcid.org/0000-0002-7048-4093) [<i class="ai ai-osf"></i>](https://osf.io/k7akr/) [<i class="ai ai-researchgate"></i>](https://www.researchgate.net/profile/Sam_Parsons4) [<i class="fab fa-github"></i>](https://github.com/sdparsons) [<i class="ai ai-publons"></i>](https://publons.com/researcher/1351322/sam-parsons/) [<i class="fab fa-youtube"></i>](https://www.youtube.com/channel/UC3C_BRgKQNqZH2P2R5U2cfw) [<i class="fas fa-envelope-square"></i>](mailto:sam.parsons@radboudumc.nl) [<i class="ai ai-cv"></i>](Sam_Parsons_cv.pdf)
 
 
 
