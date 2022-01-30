@@ -1,0 +1,33 @@
+---
+title: "Many Papers (MP) have Too Many Acronyms (TMA)"
+description: |
+  Scientific articles contain way too many acronyms.
+date: 01-29-2022
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+Some acronyms are used so widely used that spelling them out is not needed. For example, ECR for Early Career Researcher. Or more field specific, such as RT for Response Time, or GWAS for Gene-Wide Association Study. Acronyms do run into trouble when they could indicate different concepts: e.g. does your ML mean Multi-Level? Machine Learning? Maximum Likelihood?
+
+More often than not, using Too Many Acronyms (TMA) can make your writing harder to read.^[Yes, sometimes acronyms are well used. And No, this is not at attempt to lash out at those that find them useful. It is an account of why relying on them can make things more challenging for the reader]
+
+A pithy example:
+
+Many writers use Too Many Acronyms (TMA). Two challenging sub types of TMA are Too Many Unusual (unfamiliar works too) Acronyms (TMUA) and Too Many Overlapping Acronyms (TMOA; Similar also works, but then we would use TMSA). When TMA (or TMUA) occurs, the writing is both Hard To Read (HTR) and Hard To Follow (HTF). Writing that is HTR makes individual sentences more difficult to parse, insofar as it requires the reader to employ more executive control (EC) and Working Memory (WM) to recall TMA in order to understand the sentence. A knock on effect is that the writing becomes HTF, i.e. the reader must continually check All the Acronyms (AtA1) and All the Abbreviations (AtA2) to ensure they are following the thread of the argument. If the reader is anything like me, eventually the acronym becomes separate to whatever it refers. Then the reader is reading many instances of FCT2A as just a string of characters that is somehow important. Reducing TMA (and especially TMUA and TMOA/TMSA) should help avoid both HTR and HTR writing, leaving readers with EC/WM solely for your arguments.
+
+# Why acronyms?
+
+Internet ramblings aside, I do see acronyms being overused. One of my regular comments as a peer reviewer is to remove at least one acronym from the text. No, not to be pedantic or because I have my favourite reviewer 2 comments. I truly find papers that use an excessive amount of acronyms harder to read and harder to follow. I see three broad reasons for using excessive acronyms:
+
+1. To reduce the word count. Consider how many words you are saving, is that worth the additional challenge readers have? I've seen an acronyms used that would barely affect the word count. I bet there are filler words that could be removed instead. 
+2. To try to make things easier to read by not repeating the same key phrase many, many times. This is one of the times I can get behind a paper-specific acronym. But, consider asking someone to read the same few paragraphs with and without the acronyms, I'd wager that the paragraphs without are easier to read and understand. 
+3. To signify that the term is key to the paper. By ensuring the reader has to spend extra energy remembering the acronym, you try to get them to keep this key concept in mind. Great, until you're 5 acronyms deep and in 2 paragraphs the reader has forgotten most of them. 
+
+Of course, I'm just an Early Career Researcher^[ECR, if you will.] rambling on my own website. So, of course these thoughts are not prescriptive, nor do I think they apply across all contexts. In the end, the readers are the judges. So, lets be as kind to them as possible.

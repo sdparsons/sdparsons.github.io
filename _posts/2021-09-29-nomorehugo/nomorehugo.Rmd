@@ -2,9 +2,6 @@
 title: "Bye Hugo Academic, hello Distill for Rmarkdown"
 description: |
   Why I gave up on Hugo Academic
-author:
-  - name: Sam Parsons
-    url: 
 date: 09-29-2021
 output:
   distill::distill_article:

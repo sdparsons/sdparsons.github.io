@@ -7,10 +7,16 @@
     <description>My Blog
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Wed, 29 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Many Papers (MP) have Too Many Acronyms (TMA)</title>
+      <link>https://sdparsons.github.io/posts/2022-01-29-acronyms</link>
+      <description>Scientific articles contain way too many acronyms.</description>
+      <guid>https://sdparsons.github.io/posts/2022-01-29-acronyms</guid>
+      <pubDate>Sat, 29 Jan 2022 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Bye Hugo Academic, hello Distill for Rmarkdown</title>
-      <dc:creator>Sam Parsons</dc:creator>
       <link>https://sdparsons.github.io/posts/2021-09-29-nomorehugo</link>
       <description>Why I gave up on Hugo Academic</description>
       <guid>https://sdparsons.github.io/posts/2021-09-29-nomorehugo</guid>

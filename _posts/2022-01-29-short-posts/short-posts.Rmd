@@ -1,0 +1,19 @@
+---
+title: "Letting myself write shorter posts"
+description: |
+  Blogs dont have to be lengthy
+date: 01-29-2022
+output:
+  distill::distill_article:
+    self_contained: false
+draft: true
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+I learn a lot 
+
+
