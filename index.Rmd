@@ -31,7 +31,7 @@ site: distill::distill_website
 
 
 
-**About me** I’m a [Radboud Excellence Initiative](https://www.ru.nl/excellence/) Postdoctoral Research Fellow. I work in the [Lifespan Cognitive Dynamics Lab](https://www.rogierkievit.com/) based at the [Donders Institute](https://www.ru.nl/donders/). I did my DPhil in Experimental Psychology at the University of Oxford^[a DPhil is a PhD but of course they need to call it something else]
+**About me** I am a [Radboud Excellence Initiative](https://www.ru.nl/excellence/) Postdoctoral Research Fellow. I work in the [Lifespan Cognitive Dynamics Lab](https://www.rogierkievit.com/) based at the [Donders Institute](https://www.ru.nl/donders/). I did my DPhil in Experimental Psychology at the University of Oxford^[a DPhil is a PhD but of course they need to call it something else]
 
 Just in case you’re here for the cat, this ginger monster is called Beau.
 
