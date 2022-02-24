@@ -11,11 +11,40 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+(please note: I will add pdfs links asap)
+
 ## Peer-reviewed
+
+### 2022
+
+Azevedo, F., Lui, M., Pennington, C., Pownall, M., Evans, T., **Parsons, S.**, Elsherif, M., Micheli, L., Westwood, S., & Framework for Open and Reproducible Research Training (FORRT). (2022). Towards a culture of open scholarship: the role of pedagogical communities. *BMC Research Notes, 15*, 75. [doi.org/10.1186/s13104-022-05944-1](https://doi.org/10.1186/s13104-022-05944-1)
+
+<aside>
+<div data-badge-type="donut" data-doi="10.1186/s13104-022-05944-1" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+</aside>
+
+**Parsons, S.**, Azevedo, F., Elsherif, M. M. M., Guay, S., ... & Aczel, B. (2022) A Community-Sourced Glossary of Open Scholarship Terms. *Nature Human Behavior*. [doi.org/10.1038/s41562-021-01269-4](https://doi.org/10.1038/s41562-021-01269-4). preprint: [osf.io/preprints/metaarxiv/kdqcw](https://osf.io/preprints/metaarxiv/kdqcw). Open access link: [rdcu.be/cHsqM](rdcu.be/cHsqM). website: [forrt.org/glossary/](https://forrt.org/glossary/)
+
+<aside>
+<div data-badge-type="donut" data-doi="10.1038/s41562-021-01269-4" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+</aside>
+
+**Parsons, S.**, Todorovic, A., Lim, M., Songco, A., & Fox, E. (2022). Data and protocol for the Oxford Achieving Resilience during COVID-19 (ARC) study. *accepted for publication in the Journal of Open Psychology Data*
+
+**Parsons, S** (2020). Exploring reliability heterogeneity with multiverse analyses: Data processing decisions unpredictably influence measurement reliability. *accepted for publication at Meta-Psychology*. Preprint: [psyarxiv.com/y6tcz](https:/psyarxiv.com/y6tcz), data and code: [osf.io/haz6u/](https://osf.io/haz6u/)
 
 ### 2021
 
-Lim, M. C., **Parsons, S.**, Goglio, A., Fox, E. (2021). Anxiety, stress, and binge eating behaviours in adolescence: a prospective approach. *Journal of Eating Disorders, 9*. [doi.org/10.1186/s40337-021-00444-2](https://doi.org/10.1186/s40337-021-00444-2)
+Pownall, M., Azevedo, F., Aldoh, A., Elsherif, M. Vasilev, M., Pennington, C., Robertson, O., Vel Tromp, M., Lui, M., Makel, M., Tonge, N., Moreau, D., Horry, R., Shaw, J., Tzavella, L., McGarrigle, R., Talbot, C., **Parsons, S.*, & FORRT (2021). Embedding open and reproducible science into teaching: A bank of lesson plans and resources.  *Scholarship of Teaching and Learning in Psychology*. [doi.org/10.1037/stl0000307](https://doi.org/10.1037/stl0000307)
+
+<aside>
+<div data-badge-type="donut" data-doi="10.1037/stl0000307" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+</aside>
+
+Lim, M. C., **Parsons, S.**, Goglio, A., & Fox, E. (2021). Anxiety, stress, and binge eating behaviours in adolescence: a prospective approach. *Journal of Eating Disorders, 9*. [doi.org/10.1186/s40337-021-00444-2](https://doi.org/10.1186/s40337-021-00444-2)
 
 <aside>
 <div data-badge-type="donut" data-doi="10.1186/s40337-021-00444-2" data-hide-no-mentions="true" class="altmetric-embed"></div>
@@ -154,8 +183,6 @@ Booth, C., Songco, A., **Parsons, S.**, Heathcote, L., Vincent, J., Keers, R., &
 </aside>
 
 ## Preprints and working papers
-
-**Parsons, S** (2020). Exploring reliability heterogeneity with multiverse analyses: Data processing decisions unpredictably influence measurement reliability. Under review at Meta-Psychology. Preprint: [psyarxiv.com/y6tcz](https:/psyarxiv.com/y6tcz), data and code: [osf.io/haz6u/](https://osf.io/haz6u/)
 
 FORRT. (2019). Introducing a Framework for Open and Reproducible Research Training (FORRT). (Co-author). Preprint: [osf.io/bnh7p/](https://osf.io/bnh7p/). Website: [forrt.org](https://forrt.org)
 

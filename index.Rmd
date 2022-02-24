@@ -1,7 +1,7 @@
 ---
 title: "Sam Parsons"
-image: "SamProfile.jpg"
-preview: "SamProfile.jpg"
+image: "SP_Profile.jpg"
+preview: "SP_Profile.jpg"
 twitter:
   site: "@sam_d_parsons"
 links:
@@ -33,7 +33,6 @@ site: distill::distill_website
 
 **About me** I am a [Radboud Excellence Initiative](https://www.ru.nl/excellence/) Postdoctoral Research Fellow. I work in the [Lifespan Cognitive Dynamics Lab](https://www.rogierkievit.com/) based at the [Donders Institute](https://www.ru.nl/donders/). I did my DPhil in Experimental Psychology at the University of Oxford^[a DPhil is a PhD but of course they need to call it something else]
 
-Just in case you’re here for the cat, this ginger monster is called Beau.
 
 **My current work** is focused on the reliability of longitudinal structural brain imaging data across brain regions, structural measures, and studies. My aim is to support developmental cognitive neuroscience study changes in brain structure and function by focusing on sources of reliability and error. My core approach will be based on intra-class effect decomposition, closely tied to generalisability theory. These models extract sources of variation in order to explore where the variation/error comes from in the model, moving beyond a single metric of reliability (e.g. ICC for test-retest). I believe it is important to support others who may want to use these approaches, so I will be dedicating time to share code and develop tutorials.
 
