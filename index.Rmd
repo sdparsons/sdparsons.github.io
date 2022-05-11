@@ -40,6 +40,8 @@ I am happy to be contacted to discuss reliability of cognitive measures - partic
 
 **Open Scholarship** I try to do my own small bit for the improvement of psychological science and open scholarship. Amy Orben, Sophia Cruwell, and I co-founded the [ReproducibiliTea Journal Clubs](https://reproducibilitea.org/) - now a large international community of Journal Clubs where folks talk about openness, reproducibility, and improving research practices. Flavio Azevedo and I also co-founded a [Framework for Open and Reproducible Research Training](https://forrt.org/) (FORRT), a pedagogy-focused community working to support those seeking to incorporate open and reproducible practices into their teaching and mentoring. 
 
+![](FORRTbadge.png){ width=40% } ![](reproducibilitea.jpg){ width=40% }
+
 Eventually, I will get around to loading my previous projects & talks here. In the meantime, I have most of my talk slides on the [OSF](https://osf.io/rfy2h/), and you can check out my [CV](Sam_Parsons_cv.pdf). I do try to keep this website up to date, however it may fall behind my CV.
 
 
