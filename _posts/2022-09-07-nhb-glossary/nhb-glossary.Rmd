@@ -1,0 +1,96 @@
+---
+title: "Responding to some critisms of the FORRT Glossary paper"
+description: |
+  Some people have complained that the FORRT Glossary project is paywalled. This isn't correct, and I have thoughts about concerns raised about publishing (a description of this project) in Nature Human Behaviour. Reader discression: Jaded postdoc writing becomes clearer throughout.
+date: 09-07-2022
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+(These thoughts are mine and may not reflect my co-authors)
+
+## Quick background: 
+
+For those unfamiliar, FORRT's Glossary project (<https://forrt.org/glossary/>) is a large collection of terms broadly relating to open scholarship. We hope this resource makes conversations about open scholarship more accessible, and acts as a useful resource for students and educators. Over 100 scholars contributed to the project; writing and editing descriptions, and generating a consensus for over 250 terms relating to open scholarship.
+
+In February 2022 we published a paper describing the project in Nature Human Behaviour (publishers link to accessible version: <https://rdcu.be/cHsqM>, and post-print: <https://doi.org/10.31222/osf.io/kdqcw>). Now, I cannot stress this enough: the paper is not the glossary. The paper describes and advertises the project, while the actual resource is completely open (and still open for contributions) on the FORRT website (<https://forrt.org/glossary/>). 
+
+Unfortunately, the "official" version of the paper - the DOI'd version - is behind a paywall (<https://www.nature.com/articles/s41562-021-01269-4>). Before you gasp and complain (as some have, but we'll get to that shortly), know that we were informed only at the last minute that the paper would not be made open access. Technically the paper is a comment, and therefore deemed ineligible per journal policies to be open access. There were long drawn out battles behind the scenes to make this open access, that in the end we lost. What we were given was a publishers access link we could openly share. Not technically open access, but at least we could share that, and the postprint. 
+
+
+## The complaints / concerns / gripes
+
+Once again, someone on twitter has raised concern with the Nature Human Behavior paper  describing phase 1 of the FORRT glossary project. This post isn't necessarily a direct response to any specific message. But the latest message did prompt me to write this, particularly as it felt unnecessary to add a complaint about this project after complementing Flavio Azevedo (<https://twitter.com/Flavio_Azevedo_>) on his wonderful NASA interview (<https://science.nasa.gov/open-science/transform-to-open-science/stories/dr-flavio-azevedo>). Several co-authors and I have responded to these and other concerns about the project since it was published. I cant say for others, but I can imagine a sense of disappointment that this mass community effort can be so quickly dismissed or critiqued out of hand.
+
+Mostly at this point I'm just bored of cycling through very similar conversations, so I'm spending my morning writing this post. Honestly, I'm not sure I'll engage in some of these complaints any more other than giving the link to this post. If I seem tired and a bit jaded, it's because I am. 
+
+OK, the complaints in a somewhat discussion format (perhaps over-emphasised). 
+
+
+### 1. The project looks great, but I cant believe something so useful would be paywalled.
+
+No, it's not. The project is on the website, and you can still contribute (<https://forrt.org/glossary/>). The paper is merely a summary of phase 1 of the project, and you can still access it (publishers link to accessible version: <https://rdcu.be/cHsqM>, and post-print: <https://doi.org/10.31222/osf.io/kdqcw>). We share these accessible versions everywhere, including the website, so the official DOI link can basically be ignored in favour of these (sorry, not sorry, NHB).
+
+
+### 2. But, but, the paper is paywalled! 
+
+We were told it would be open (shrug emoji). Then at the last minute, because of journal policy, it was not. More than a few people spent a lot of time trying to navigate this, but we were eventually denied. Sorry if you're still disappointed in that. 
+
+
+### 3. How can you say you support open scholarship if you published in a Nature journal!?
+
+Personally, I think that the glossary is more than a net benefit to academia. I know Springer, El$evier, et al. are demon spawn sent to suck academia dry. Did we feed the beast? Maybe, but they didn't get any money from us and the accessible links are what we're sharing. 
+
+I'd rather not have to rely on journals at all, but can you genuinely say that if we had "only" preprinted this paper that anywhere as many people would have seen the glossary? Is NHB a venue that would lead to a higher readership and likely credibility for the glossary? Probably, and given the sheer amount of papers and commentaries on open scholarship in there, it seems like a good way to spread the word. 
+
+Now, if this were a solo author perspective, I would have pulled it and submitted elsewhere. Or, more likely, preprinted and procrastinated on submitting. But, this was a mass effort and I dont think subjecting everyone to an entirely different submission (and likely a major revision of the comment) would have benefited anyone - including those who may benefit from the glossary itself. 
+
+
+### 4. Oh, so you just want the prestigue of a Nature journal.
+
+I want recognition for the 100+ contributors on this project. I want projects like this, that would otherwise be purely powered by volunteered labour, to be recognised. I want a way for those that contributed on this, and other FORRT projects, to get credit for doing so. Does publishing in NHB maximise that, probably. Do I hate academic "prestige" in its many unjustified, gate-keeping, and inequitable awfulness. Yes. Do I recognise that publications, and especially publications in outlets like this can make a world of difference for a grass-roots, largely ECR led initiative. Also yes. Does it somehow minimise the integrity of our contributors/coauthors or the glossary project, I argue no. 
+
+
+### 5. Oh, so you support the current system of (exploitative) academic publishing?
+
+Do I want the entire system to change. Yes. I'd happily see journals as we currently see them die off and replaced entirely with something better and more equitable. Was a comment paper about our glossary project the vehicle for systemic change, no. 
+
+I'm fond of the buffet table approach to open scholarship (shout out to Kirstie Whitaker <https://twitter.com/kirstie_j> for introducing many people to this idea). We can do great work and make impactful contributions in some aspects of open scholarship, but does every project have to live by the "ideal" principles of open scholarship (if folk can even agree on what those would be)? There will always be trade offs, in this instance we wanted to maximise the credit and impact of the glossary project as well as maximise the recognition for our contributors. 
+
+
+### 6. The paper being paywalled at NHB makes me doubt your open science awareness. 
+
+Cool, you do you. Check out the above responses. Maybe check out the glossary itself too before bashing the contributors and their expertise? Otherwise I can easily say who looks the bigger jerk in this exchange?
+
+
+### 7. Your definition of [insert term] sucks! 
+
+The project is open. Add improvements, suggest alternatives. That's how it will improve. 
+
+
+### 8. You didn't define XYZ! (likely my special sub-domain)
+
+Cool, see the above, you can add it yourself. We welcome contributors and their contributions. 
+
+
+### 9. Just like many open science movements, the project's authors are dominated by WEIRD (Western, Educated, Industrialized, Rich and Democratic societies).
+
+I don't have the numbers on this. We did open the project and advertise widely. We are looking to begin translation projects to increase the diversity, representation, and accessibility. It wont solve this problem, but hopefully helps improve things.
+
+
+### 10. General negative half-baked thoughts
+
+Stop, do better. 
+
+
+## End
+
+Thank you to everyone that contributed, and continues to contribute, to the glossary project. It's am awesome resource, and it will continue to improve. Y'all are amazing and you created something useful.
+
+To those flinging critiques - I agree with some of your concerns, I'd prefer academia to simply be different too. I hope this post helps explain some background and my own thoughts on these critiques. I can say that my own perspectives should not be interpreted as reflecting the view of every contributor/coauthor. Still, there is a difference between critiquing this work such that improvements can be made, and mindless poo flinging. 

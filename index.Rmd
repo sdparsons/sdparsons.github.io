@@ -59,3 +59,12 @@ Latest version: 0.8.1 “Rum Ham”^[Yes, all of the version names I have given 
 Now published in the [Journal of Open Source Software](https://joss.theoj.org/papers/10.21105/joss.03041)
 
 ![](splithalf.png){ width=50% }
+
+
+---------------------------
+
+## Consulting
+
+I am available for resesarch consulting. Contact me if you are interested and we can discuss projects, timescales, and costings. 
+
+I have experience in research consulting for: study design and implementation, statistics, and programming in R.
