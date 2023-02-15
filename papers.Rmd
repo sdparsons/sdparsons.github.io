@@ -38,7 +38,7 @@ Azevedo, F., Lui, M., Pennington, C., Pownall, M., Evans, T., **Parsons, S.**, E
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 </aside>
 
-**Parsons, S** (2020). Exploring reliability heterogeneity with multiverse analyses: Data processing decisions unpredictably influence measurement reliability. *accepted for publication at Meta-Psychology*. Preprint: [psyarxiv.com/y6tcz](https:/psyarxiv.com/y6tcz), data and code: [osf.io/haz6u/](https://osf.io/haz6u/)   [<i class="fas fa-download"></i> PDF](papers/20_Parsons_2022_MetaPsychology_acceptedpreprint.pdf)
+**Parsons, S** (2022). Exploring reliability heterogeneity with multiverse analyses: Data processing decisions unpredictably influence measurement reliability. *accepted for publication at Meta-Psychology*. DOI: [doi.org/10.15626/MP.2020.2577](https://doi.org/10.15626/MP.2020.2577), data and code: [osf.io/haz6u/](https://osf.io/haz6u/)   [<i class="fas fa-download"></i> PDF](papers/20_Parsons_2022_MetaPsychology_acceptedpreprint.pdf)
 
 <aside>
 <div data-badge-type="donut" data-doi="10.31234/osf.io/y6tcz" data-hide-no-mentions="true" class="altmetric-embed"></div>
@@ -193,6 +193,15 @@ Booth, C., Songco, A., **Parsons, S.**, Heathcote, L., Vincent, J., Keers, R., &
 </aside>
 
 ## Preprints and working papers
+
+**Parsons, S.**, Brandmaier, A., Lindenberger, U., & Kievit. (2023). Longitudinal stability of grey matter measures varies across brain regions, imaging metrics, and testing sites in the ABCD study. Preprint: https://psyarxiv.com/zpu6t/
+
+Zavlis, O., **Parsons, S.**, Fox, E., Booth, C., Songco, S., & Vincent, J. (December, 2022). The effects of life experiences and polygenic risk for depression on the development of positive and negative cognitive biases across adolescence: The CogBIAS hypothesis. Preprint: https://psyarxiv.com/wsn4x/
+
+**Parsons, S.** & McCormick, E. M. (November, 2022). “Don’t peek at your data” applies to longitudinal studies too: two time points poorly capture trajectories of change. Preprint: https://psyarxiv.com/
+
+Todorovic, A., *Parsons, S.*, Chapple, L., Taylor, A., & Fox, E. (2022, April 29). Lower, not higher, trait anxiety leads to switch cost asymmetry on neutral tasks: a replication and extension of Gustavson et al., 2017. https://doi.org/10.31234/osf.io/aer8b
+
 
 FORRT. (2019). Introducing a Framework for Open and Reproducible Research Training (FORRT). (Co-author). Preprint: [osf.io/bnh7p/](https://osf.io/bnh7p/). Website: [forrt.org](https://forrt.org)
 
